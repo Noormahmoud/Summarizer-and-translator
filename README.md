@@ -14,3 +14,6 @@ Was done using BART-large model which is pre-trained on English language, and fi
 
 - Translate articles summary
 Was done using mBART-50 many to many multilingual machine translation model.
+
+### colab 
+https://colab.research.google.com/drive/1sojJvxrZSviImUrWTP3FX7o5TL54WQ5i?usp=sharing
